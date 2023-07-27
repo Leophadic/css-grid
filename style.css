@@ -39,7 +39,6 @@ box-shadow: 5px 5px 5px black;
 .img-grid{
     grid-column: span 2;
 }
-
 }
 @media  screen and (min-width: 535px) {
     .img-grid{
@@ -54,9 +53,7 @@ box-shadow: 5px 5px 5px black;
     .img-grid{
         grid-column: span 2;
     }
-    .imgg{
-        grid-row: span ;
-    }
+   
 }
 
 
