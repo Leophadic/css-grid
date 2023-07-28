@@ -47,8 +47,7 @@ box-shadow: 5px 5px 5px black;
     .img{
         grid-row: span 2;
     }
-   
-}
+   }
 @media screen and (max-width: 1020px) {
     .img-grid{
         grid-column: span 2;
